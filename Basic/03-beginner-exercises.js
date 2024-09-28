@@ -23,3 +23,35 @@ https://www.youtube.com/live/euVbF1eatEY?si=nHS3QznAlA_C39NK&t=808
 // 9. A continuación, modifica los valores de las constantes
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
+
+//comienzo de los ejercicios 
+
+/**  esto es un comenteario en varais lineas
+ * ejeracicio 1 y 2 hechos
+  */
+
+let numero=10
+let texto='es un texto'
+let condicion=true
+let nulo=null;
+let simbolo=Symbol("mi simbolo")
+let indifinidos
+let numeroGrande =BigInt(758475847589748758498758947)
+let numgrande=817239871289371986589716389471628379612983761289376129n
+
+console.log();
+console.log();
+console.log();
+console.log();
+console.log();
+console.log();
+console.log();
+
+console.log(typeof(numero));
+console.log(typeof(texto));
+console.log(typeof(condicion));
+console.log(typeof(nulo));
+console.log(typeof(simbolo));
+console.log(typeof(indifinido));
+console.log(typeof numeroGrande);
+console.log(numero!=3)
