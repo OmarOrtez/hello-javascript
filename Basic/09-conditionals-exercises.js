@@ -201,3 +201,18 @@ switch (mes) {
     console.log('mes incorrecto')
 
 }
+let num=1;
+let fibo=0;
+let aux=0;
+
+for(let i=1;i<=10;i++){
+
+aux=fibo+num;
+num=fibo;
+fibo=aux;
+
+
+
+console.log(aux)
+
+}
